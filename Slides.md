@@ -90,8 +90,8 @@ Options:
 
 There are examples in the `examples` directory. Some require additional files:
 
-* http://storage.googleapis.com/download.tensorflow.org/models/inception5h.zip (pretrained)
-* http://download.tensorflow.org/models/object_detection/ssd_mobilenet_v1_coco_11_06_2017.tar.gz (coco)
+* [http://storage.googleapis.com/download.tensorflow.org/models/inception5h.zip](http://storage.googleapis.com/download.tensorflow.org/models/inception5h.zip) (pretrained)
+* [http://download.tensorflow.org/models/object_detection/ssd_mobilenet_v1_coco_11_06_2017.tar.gz](http://download.tensorflow.org/models/object_detection/ssd_mobilenet_v1_coco_11_06_2017.tar.gz) (coco)
 
 ----
 
