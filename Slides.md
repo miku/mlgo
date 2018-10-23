@@ -6,6 +6,8 @@ Golab 2018-10-23, 10:30--12:00, Florence (IT)
 
 [Martin Czygan](mailto:martin.czygan@gmail.com), [github.com/miku](http://github.com/miku)
 
+* Repo at [https://github.com/miku/mlgo](https://github.com/miku/mlgo)
+
 ----
 
 # About me
