@@ -1,0 +1,43 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test binary, build with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Project-local glide cache, RE: https://github.com/Masterminds/glide/issues/736
+.glide/
+
+# Data files
+notebooks/data/*mat
+.ipynb_checkpoints
+models/inception5h.zip
+models/tensorflow_inception_graph.pb
+models/LICENSE
+models/imagenet_comp_graph_label_strings.txt
+
+videos/*
+models/vgg19.tar.gz
+models/onnx/*
+models/mobilenet_v1_1.0_224.tgz
+models/resnet_v1_50_2016_08_28.tar.gz
+models/text8.zip
+
+examples/tfgomnist/log/*
+examples/tfgomnist/export/*
+
+examples/notmnist/notMnist/saved_model.pb
+examples/notmnist/notMnist/variables/variables.data-00000-of-00001
+examples/notmnist/notMnist/variables/variables.index
+notebooks/KerasNotMnist.ipynb
+notebooks/notMnist/saved_model.pb
+notebooks/notMnist/variables/variables.data-00000-of-00001
+notebooks/notMnist/variables/variables.index
+
+notebooks/tmp/
+
