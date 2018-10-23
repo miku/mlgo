@@ -1132,6 +1132,8 @@ if err != nil {
 > well-suited to loading models created in Python and executing them within a
 > Go application.
 
+Install https://www.tensorflow.org/install/lang_c library.
+
 ```
 $ go get github.com/tensorflow/tensorflow/tensorflow/go
 ```

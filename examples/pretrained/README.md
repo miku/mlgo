@@ -4,3 +4,10 @@ Download from:
 
 Unzip into this directory.
 
+----
+
+Tensorflow:
+
+* C: https://www.tensorflow.org/install/lang_c
+* Go: https://www.tensorflow.org/install/lang_go
+
