@@ -341,7 +341,7 @@ Using the boston house prices dataset.
 
 # (2) Linear Regression
 
-* see: example/linrego
+* see: example/linreg
 
 ```shell
 $ go get github.com/sajari/regression
