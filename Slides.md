@@ -109,7 +109,7 @@ There are examples in the `examples` directory. Some require additional files:
 But there are options:
 
 * [gomacro](https://github.com/cosmos72/gomacro), an almost complete Go interpreter with a REPL
-* [gophernotes](https://github.com/gopherdata/gophernotes), built on gomacro, one of the (4) Go [jupyter kernels](https://github.com/jupyter/jupyter/wiki/Jupyter kernels)
+* [gophernotes](https://github.com/gopherdata/gophernotes), built on gomacro, one of the (4) Go [jupyter kernels](https://github.com/jupyter/jupyter/wiki/Jupyter%20kernels)
 
 ----
 
