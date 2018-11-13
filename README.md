@@ -6,6 +6,8 @@ About ten self-contained examples.
 
 * Slides as [markdown](Slides.md) or [PDF](Slides.pdf)
 
+![](images/117570.png)
+
 ----
 
 Overview
