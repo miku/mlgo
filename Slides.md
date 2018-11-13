@@ -693,7 +693,7 @@ $ go get github.com/cdipaolo/goml/...
 
 * loading data
 
-```
+```go
 // LoadDataFromCSV takes in a path to a CSV file and
 // loads that data into a Golang 2D array of 'X' values
 // and a Golang 1D array of 'Y', or expected result,
