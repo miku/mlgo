@@ -33,3 +33,11 @@ that I intend to include in the future:
 
 The initial version of the workshop traded overview for interactivity, which
 made it less interesting as it could have been.
+
+----
+
+![](examples/coco/output-umbrella.jpg)
+
+> Ombrelli bianchi sospesi in aria tra i palazzi di via Romana, a Firenze (Foto
+Cge Fotogiornalismo),
+([Source](https://firenze.repubblica.it/cronaca/2013/12/04/foto/gli_ombrelli_sospesi_di_via_romana-72688861/1/#1)).
