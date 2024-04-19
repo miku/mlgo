@@ -16,6 +16,10 @@ require (
 	github.com/kniren/gota v0.9.0
 	github.com/sajari/regression v1.0.0
 	github.com/sjwhitworth/golearn v0.0.0-20190323185925-82e59c89f502
+	github.com/smartystreets/goconvey v1.8.1 // indirect
+	github.com/stretchr/testify v1.9.0 // indirect
+	github.com/tensorflow/tensorflow v1.13.1
+	golang.org/x/image v0.10.0
 	github.com/smartystreets/goconvey v1.7.2 // indirect
 	github.com/stretchr/testify v1.8.2 // indirect
 	github.com/tensorflow/tensorflow v1.13.1
