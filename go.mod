@@ -19,7 +19,7 @@ require (
 	github.com/smartystreets/goconvey v1.8.1 // indirect
 	github.com/stretchr/testify v1.9.0 // indirect
 	github.com/tensorflow/tensorflow v1.13.1
-	golang.org/x/image v0.10.0
+	golang.org/x/image v0.18.0
 	gonum.org/v1/gonum v0.0.0-20190419091250-b869779d1d53
 	gonum.org/v1/plot v0.0.0-20190410204940-3a5f52653745
 )
